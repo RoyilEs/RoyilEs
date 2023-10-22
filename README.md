@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div align="center">I'm Ro'y</div>  
+### <div align="center">I'm Roy</div>  
   
 
 - 🌱 I’m currently learning Golang and java  
@@ -58,10 +58,7 @@
 <br/>  
 
 
-## Connect with me  
-  
 
-<br/>  
 
 
 ## Github Stats  
@@ -70,14 +67,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
